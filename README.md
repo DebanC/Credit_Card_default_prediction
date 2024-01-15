@@ -1,1 +1,9 @@
-# Credit_Card_default_prediction
+## Step 1 : Clone the reprosetory
+```
+
+
+```
+## Step 2 : Conda Environment
+```
+
+```
