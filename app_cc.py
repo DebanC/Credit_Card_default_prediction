@@ -8,7 +8,7 @@ import pandas as pd
 
 app = Flask(__name__)
 
-model = pickle.load(open('D:\deban final\Credit_Card_default_prediction\model.pkl', 'rb'))
+model = pickle.load(open('D:\deban ineuron\Credit_Card_default_prediction\model.pkl', 'rb'))
 
 @app.route('/')
 def home():
