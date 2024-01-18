@@ -1,4 +1,5 @@
 # ineuron intership : Credit Crad Default Prediction
+[<img target="_blank" src="https://media.licdn.com/dms/image/D560BAQF-jLf4vWUx9g/company-logo_200_200/0/1699514201876/ineuron_ai_logo?e=2147483647&v=beta&t=CNFSabNS2Dwrn6Ajq9v94rGzFkfuJp0kUm_s5cMNY-U" width=150>]
 
 ### Problem Statement:
 ```
@@ -49,3 +50,31 @@ conda activate sensor
 ```
    pip install -r requirements.txt
 ```
+# Technology Used :
+
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/450px-Pandas_logo.svg.png" width=150>](https://pandas.pydata.org)    [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=150>](https://scikit-learn.org/stable)   
+     [<img target="_blank" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width=150>](https://seaborn.pydata.org)
+
+
+
+
+
+
+
+
+
+## Curated by :
+'''
+Debanjan Chakraborty
+'''
+# Deployment :
+
+[Local_Deployment_Link] ("http://127.0.0.1:5000/")
+
+
+[Heroku_deployment_Link] ("https://creditcarddefaultprediction-5fc19febb654.herokuapp.com/")
+
+
